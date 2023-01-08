@@ -1,0 +1,3 @@
+D:/projects/Renderers/cmake-build-debug/CMakeFiles/Renderers.dir
+D:/projects/Renderers/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/projects/Renderers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
